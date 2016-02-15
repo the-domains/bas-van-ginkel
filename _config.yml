@@ -1,0 +1,28 @@
+name: Bas van Ginkel
+favicon: null
+layout_spectrum: 0.9497368417214602
+typography_spectrum: 0.38194277603179216
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.5046687899157405
+  lightness: 0.6477661386597902
+  saturation: 0.7708898386918008
+  rhythmicContrast: 0.6404602834954858
+purpose: []
